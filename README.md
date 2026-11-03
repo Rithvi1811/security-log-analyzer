@@ -45,3 +45,6 @@ streamlit run app.py
 - Using Git and GitHub
 
 *All data is simulated for learning purposes.*
+
+
+   🔗 **Live demo:** https://security-log-analyzer-zdvfxnu6farifq2cwfiewa.streamlit.app
